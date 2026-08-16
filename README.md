@@ -1,9 +1,9 @@
 <p>
   <a href="https://github.com/RealTriple-E/skills">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/elyazer-landscape-dark.jpg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/elyazer-landscape.jpg">
-      <img alt="Elyazer Emmanuel — Skills" src="assets/elyazer-landscape.jpg" width="738">
+      <source media="(prefers-color-scheme: dark)" srcset="assets/elyazer-landscape-level-dark.jpg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/elyazer-landscape-level.jpg">
+      <img alt="Elyazer Emmanuel — Skills" src="assets/elyazer-landscape-level.jpg" width="738">
     </picture>
   </a>
 </p>
