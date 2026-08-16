@@ -1,0 +1,25 @@
+{
+  "name": "elyazer-skills",
+  "version": "1.0.0",
+  "description": "Elyazer Emmanuel's agent skills — orchestration, UI unvibecoding, and X/Twitter growth intelligence",
+  "author": {
+    "name": "Elyazer Emmanuel",
+    "url": "https://github.com/RealTriple-E"
+  },
+  "homepage": "https://github.com/RealTriple-E/skills",
+  "repository": "https://github.com/RealTriple-E/skills",
+  "license": "MIT",
+  "keywords": [
+    "agent-skills",
+    "claude-code",
+    "coding-agent",
+    "orchestration",
+    "ui-audit",
+    "growth-marketing"
+  ],
+  "skills": [
+    "./skills/orchestration/duckswarm",
+    "./skills/engineering/unvibecode-ui",
+    "./skills/growth/x-growth-intelligence"
+  ]
+}
