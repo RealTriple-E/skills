@@ -19,6 +19,7 @@
   ],
   "skills": [
     "./skills/orchestration/duckswarm",
+    "./skills/orchestration/interlock",
     "./skills/engineering/unvibecode-ui",
     "./skills/growth/x-growth-intelligence"
   ]

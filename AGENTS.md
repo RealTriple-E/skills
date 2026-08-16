@@ -8,6 +8,6 @@ Each skill lives under `skills/<category>/<skill-name>/SKILL.md`. Load the SKILL
 
 ## Categories
 
-- **orchestration** — multi-model debate and consensus via Duck.ai
+- **orchestration** — multi-model debate and consensus via Duck.ai, and plan-first enforcement via Interlock
 - **engineering** — frontend UI audit and unvibecoding
 - **growth** — X/Twitter content strategy, creation, and publishing
